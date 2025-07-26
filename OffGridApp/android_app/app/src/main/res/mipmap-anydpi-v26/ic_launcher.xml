@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Use a solid background colour defined in colors.xml -->
+    <background android:drawable="@color/purple_500" />
+    <!-- Use a built‑in call icon as the foreground. This avoids shipping
+         additional image assets. -->
+    <foreground android:drawable="@android:drawable/ic_menu_call" />
+</adaptive-icon>

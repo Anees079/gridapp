@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OffGridCall</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_code_or_name">Please enter both a code and a name</string>
+    <string name="contact_added">Contact added</string>
+    <string name="contact_already_exists">Contact already exists</string>
+    <string name="invalid_one_time_code">Invalid or expired code</string>
+    <string name="enter_code">One‑time code</string>
+    <string name="enter_name">Contact name</string>
+    <string name="calling">Calling…</string>
+    <string name="end_call">End Call</string>
+    <string name="attach_file">Attach file</string>
+    <string name="type_message">Type a message</string>
+    <string name="send">Send</string>
+    <string name="call">Call</string>
+    <string name="chat">Chat</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+</resources>
